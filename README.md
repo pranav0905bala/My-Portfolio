@@ -10,16 +10,15 @@
 
 ### 👋 Welcome!
 
-I’m a graduate Electrical Engineer (M.S., University of Cincinnati) specializing in **robotics, embedded systems, and electromechanical design**. My focus is on building and validating **real-world hardware systems**, with strong emphasis on **system integration, control systems, and hardware debugging**.
+I’m a graduate Electrical Engineer (M.S., University of Cincinnati) specializing in **robotics, mechatronics, and electromechanical design**. My focus is on building and validating **real-world hardware systems**, with strong emphasis on **system integration, control systems, and hardware debugging**.
 
 ---
 
 ### 💼 Professional Summary
 
-- 🤖 Developed real-time control systems for a 2-DOF robotic wrist exoskeleton, improving control stability by 14%  
-- ⚙️ Built embedded systems integrating sensors, actuators, and microcontrollers for robotic and automation applications  
-- 🧪 Designed and executed test procedures for electromechanical systems, improving reliability and performance  
-- 🔍 Applied signal processing techniques in MATLAB to analyze multi-channel EMG data and improve system accuracy  
+- 🤖 Developed real-time control algorithms for a 2-DOF robotic wrist exoskeleton
+- 🧪 Designed human-robot interaction protocol  to quantify muscle synchronization patterns
+- 🔍 Developed a signal processing pipeline in MATLAB to compute **Intermuscular Coherence** from multi-channel EMG data  
 
 ---
 
@@ -35,7 +34,7 @@ I’m a graduate Electrical Engineer (M.S., University of Cincinnati) specializi
 
 #### 🦾 3-DOF Robotic Arm  
 > ⚙️ *SolidWorks, Arduino, Raspberry Pi*  
-- Designed mechanical system and built embedded control architecture  
+- Designed a mechanical system and built an embedded control architecture  
 - Integrated servo motor control for multi-axis motion  
 - Implemented real-time video feedback using Raspberry Pi  
 
@@ -43,11 +42,35 @@ I’m a graduate Electrical Engineer (M.S., University of Cincinnati) specializi
 
 #### 🧠 Real-Time Fatigue Detection System  
 > ⚙️ *MATLAB, Computer Vision, ML*  
-- Developed real-time classification system with <90 ms latency  
-- Achieved 85% accuracy across 1000+ frames  
+- Developed a real-time classification system with <90 ms latency  and 85% accuracy across 1000+ frames  
 - Combined signal processing and ML for real-world detection  
 
 ---
+
+🚌 Smart Bus System
+>⚙️ Arduino, IR Sensors
+- Developed a prototype to track bus occupancy and provide real-time passenger information 
+- Integrated IR sensors with Arduino to detect and count passengers entering and exiting the vehicle
+- Designed and implemented microcontroller-based logic for real-time data processing and occupancy tracking
+
+---
+
+🏠 Gesture-Based Home Automation System
+>⚙️ Arduino, APDS9960 Sensor, Relay Modules
+- Designed a gesture-controlled home automation system
+- Integrated APDS9960 proximity and gesture sensor with the Arduino to enable touchless control
+- Implemented relay-based switching circuits for real-time device control and automation
+- Developed embedded control logic to ensure accurate gesture recognition and reliable system performance
+
+  ---
+
+🤖 Retrieval-Augmented Generation (RAG) Chatbot
+>⚙️ Python, LangChain, OpenAI, FAISS
+- Designed and implemented a Retrieval-Augmented Generation (RAG) system to process and query over 1,000+ pages of text data
+- Developed document ingestion and chunking pipelines to enable efficient semantic search and context-aware response generation
+- Utilized FAISS-based vector embeddings to improve retrieval accuracy, achieving over 80% relevance in query-response matching
+- Optimized system performance to deliver responses within 3 seconds for 90% of user queries, improving research efficiency
+  
 
 ### 🛠 Technical Skills
 
