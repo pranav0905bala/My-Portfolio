@@ -1,88 +1,90 @@
-# Hi 👋, I'm Pranav
-
-###  Electrical Engineer |  Robotics & Mechatronics |  Hardware Systems| Research and Development
-
----
-
-## 🚀 About Me
-- 🎓 MS in Electrical Engineering @ University of Cincinnati  
-- 🤖 Passionate about Robotics, Electromechanical Design, and prototyping  
-- ⚡ Focused on **System Integration, Testing, and Debugging**  
-- 🧪 Experienced in building and validating real-world hardware systems  
+<h1 align="center">Pranav Balasundaram</h1>
+<p align="center">
+  <b>Robotics | Embedded Systems | Hardware Validation | Mechatronics</b><br>
+  Cincinnati, OH • your-email@email.com • 
+  <a href="YOUR_LINKEDIN">LinkedIn</a> • 
+  <a href="YOUR_GITHUB">GitHub</a>
+</p>
 
 ---
 
-## 🧠 What I Do
-- ⚙️ Embedded Systems & Microcontrollers (Arduino, ESP32, Raspberry Pi)
-- R&D
-- 🔌 Hardware-Software Integration  
-- 🧪 Electrical Testing, Debugging & Validation  
-- 🎯 Control Systems (PID, Real-time control)  
-- 📊 Signal Processing (MATLAB)  
+### 👋 Welcome!
+
+I’m a graduate Electrical Engineer (M.S., University of Cincinnati) specializing in **robotics, embedded systems, and electromechanical design**. My focus is on building and validating **real-world hardware systems**, with strong emphasis on **system integration, control systems, and hardware debugging**.
 
 ---
 
-## 🔧 Skills
+### 💼 Professional Summary
 
-### 💻 Programming
-<img src="https://skillicons.dev/icons?i=python,c,matlab" />
-
-### ⚙️ Embedded & Hardware
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-
-### 🧪 Simulation & Tools
-<img src="https://skillicons.dev/icons?i=matlab" />
-- MATLAB/Simulink, LTSpice, KiCad  
-
-### 🛠️ CAD & Design
-- SolidWorks, AutoCAD, Fusion 360  
-
-### 📡 Communication Protocols
-- UART | I2C | SPI  
-
-### 🔬 Instrumentation
-- Oscilloscope | Multimeter | Power Supply | Function Generator  
+- 🤖 Developed real-time control systems for a 2-DOF robotic wrist exoskeleton, improving control stability by 14%  
+- ⚙️ Built embedded systems integrating sensors, actuators, and microcontrollers for robotic and automation applications  
+- 🧪 Designed and executed test procedures for electromechanical systems, improving reliability and performance  
+- 🔍 Applied signal processing techniques in MATLAB to analyze multi-channel EMG data and improve system accuracy  
 
 ---
 
-## 🔬 Featured Projects
+### 🚀 Projects & Engineering Work
 
-### 🤖 Haptic Feedback System for Isometric Torque Control
-- Developed real-time PID control using MATLAB/Simulink  
-- Integrated 2-DOF robotic system with custom GUI (QUARC)  
-- Performed system-level testing and validation for control accuracy  
-
----
-
-### 🦾 3-DOF Robotic Arm
-- Designed mechanical structure using SolidWorks  
-- Built embedded control system using Arduino & servo motors  
-- Integrated Raspberry Pi camera for real-time feedback  
+#### 🤖 Haptic Feedback System for Isometric Torque Control  
+> ⚙️ *MATLAB, Simulink, QUARC*  
+- Developed real-time PID control for precise torque feedback  
+- Integrated hardware and software for system-level validation  
+- Performed debugging and performance analysis for control optimization  
 
 ---
 
-### 🧠 Real-Time Fatigue Detection System
-- Built computer vision pipeline using MATLAB  
-- Implemented modified AlexNet for real-time classification (<90 ms)  
-- Achieved 85% detection accuracy across 1000+ frames  
+#### 🦾 3-DOF Robotic Arm  
+> ⚙️ *SolidWorks, Arduino, Raspberry Pi*  
+- Designed mechanical system and built embedded control architecture  
+- Integrated servo motor control for multi-axis motion  
+- Implemented real-time video feedback using Raspberry Pi  
 
 ---
 
-## 📊 What I Bring
-- 🔧 System Integration & Prototyping  
-- 🧪 Hardware Testing & Validation  
-- 🐞 Debugging & Root Cause Analysis  
-- ⚙️ Embedded Control Systems  
-- 📈 Data Analysis & Signal Processing  
+#### 🧠 Real-Time Fatigue Detection System  
+> ⚙️ *MATLAB, Computer Vision, ML*  
+- Developed real-time classification system with <90 ms latency  
+- Achieved 85% accuracy across 1000+ frames  
+- Combined signal processing and ML for real-world detection  
 
 ---
 
+### 🛠 Technical Skills
 
-## 📫 Connect With Me
-- 💼 LinkedIn: [www.linkedin.com/in/pranavbalasundaram]  
-- 📧 Email: pranav0905bala@gmail.com  
+**Core Skills**: Electrical Testing, Hardware Validation, System Integration, Embedded Systems, Electromechanical Systems, Troubleshooting, Root Cause Analysis  
+
+**Programming**: Python, MATLAB, C  
+
+**Hardware Platforms**: Arduino, ESP32, Raspberry Pi  
+
+**Tools**: MATLAB/Simulink, LTSpice, KiCad, SolidWorks, Fusion 360  
+
+**Instrumentation**: Oscilloscope, Multimeter, Power Supply, Function Generator  
+
+**Protocols**: UART, I2C, SPI  
 
 ---
 
-## ⚡ Fun Fact
-I enjoy building real hardware systems and debugging them until everything works perfectly 🚀
+### 🎓 Education
+
+**University of Cincinnati** — MS in Electrical Engineering  
+*Expected May 2026*  
+
+**Amrita Vishwa Vidyapeetham** — B.Tech in Electrical & Electronics Engineering  
+*June 2023*  
+
+---
+
+### 📈 Currently Exploring
+
+- 🤖 Autonomous robotics systems and control  
+- ⚙️ Hardware system integration and validation  
+- 🔌 Embedded system optimization  
+- 🧪 Advanced debugging and test methodologies  
+
+---
+
+### 📫 Let's Connect
+
+- 📧 Email: your-email@email.com  
+- 🔗 LinkedIn: YOUR_LINK  
