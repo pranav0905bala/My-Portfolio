@@ -10,7 +10,7 @@
 
 ### 👋 Welcome!
 
-I’m a graduate Electrical Engineer (M.S., University of Cincinnati) specializing in **robotics, research, mechatronics, and electromechanical design**. My focus is on building and validating **real-world hardware systems**, with strong emphasis on **system integration, control systems, and hardware debugging**.
+I’m a graduate Electrical Engineer (M.S., University of Cincinnati) specializing in **robotics, research, mechatronics, and electromechanical design**. I’m particularly interested in roles related to **robotics, controls, and electrical hardware development**, with a focus on building and validating **real-world hardware systems**, and a strong emphasis on **system integration, control systems, and hardware debugging**.
 
 ---
 
