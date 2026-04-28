@@ -1,7 +1,7 @@
 <h1 align="center">Pranav Balasundaram</h1>
 <p align="center">
-  <b>Robotics | Embedded Systems | Hardware Validation | Mechatronics</b><br>
-  Cincinnati, OH • your-email@email.com • 
+  <b>Robotics | Mechatronics | Hardware Development | Research & Development</b><br>
+  Cincinnati, OH • pranav0905bala@gmail.com • 
   <a href="YOUR_LINKEDIN">LinkedIn</a> • 
   <a href="YOUR_GITHUB">GitHub</a>
 </p>
