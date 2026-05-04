@@ -28,8 +28,8 @@ My work focused on developing robot-assisted experimental platforms, combining r
 
 ### 🚀 Projects & Engineering Work
 
-#### 🤖 Haptic Feedback System for Isometric Torque Control
-[🔗](https://github.com/pranav0905bala/haptic-feedback-torque-control)
+[🔗](https://github.com/pranav0905bala/haptic-feedback-torque-control) 🤖 Haptic Feedback System for Isometric Torque Control
+
 > ⚙️ *MATLAB, Simulink, QUARC*  
 - Developed real-time PID control for precise torque feedback  
 - Integrated hardware and software for system-level validation  
@@ -37,8 +37,8 @@ My work focused on developing robot-assisted experimental platforms, combining r
 
 ---
 
-#### 🦾 3-DOF Bomb-Defusal Robotic Arm
-https://github.com/pranav0905bala/Robotic-Arm
+
+[🔗](https://github.com/pranav0905bala/Robotic-Arm) 🦾 3-DOF Bomb-Defusal Robotic Arm
 > ⚙️ *SolidWorks, Arduino, Raspberry Pi*  
 - Designed a mechanical system and built an embedded control architecture  
 - Integrated servo motor control for multi-axis motion  
@@ -46,16 +46,16 @@ https://github.com/pranav0905bala/Robotic-Arm
 
 ---
 
-#### 🧠 Real-Time Fatigue Detection System 
-https://github.com/pranav0905bala/Real-Time-Fatigue-Detection-System
+[🔗](https://github.com/pranav0905bala/Real-Time-Fatigue-Detection-System) 🧠 Real-Time Fatigue Detection System 
+
 > ⚙️ *MATLAB, Computer Vision, ML*  
 - Developed a real-time classification system with <90 ms latency  and 85% accuracy across 1000+ frames  
 - Combined signal processing and ML for real-world detection  
 
 ---
 
-🚌 Smart Bus System
-https://github.com/pranav0905bala/Smart-Bus-Occupancy-System
+
+[🔗](https://github.com/pranav0905bala/Smart-Bus-Occupancy-System) 🚌 Smart Bus System
 >⚙️ Arduino, IR Sensors
 - Developed a prototype to track bus occupancy and provide real-time passenger information 
 - Integrated IR sensors with Arduino to detect and count passengers entering and exiting the vehicle
