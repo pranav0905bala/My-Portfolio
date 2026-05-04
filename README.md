@@ -15,7 +15,7 @@ I’m a graduate Electrical Engineer (M.S., University of Cincinnati) specializi
 ---
 
 ### 💼 Professional Summary
-👉 [View Project]https://github.com/pranav0905bala/Intermuscular-Coherence-Analysis-in-Robot-Aided-Isometric-Wrist-Tasks
+👉 [View Project](https://github.com/pranav0905bala/Intermuscular-Coherence-Analysis-in-Robot-Aided-Isometric-Wrist-Tasks)
 
 - 🤖 Developed real-time control algorithms for a 2-DOF robotic wrist exoskeleton
 - 🧪 Designed human-robot interaction protocol  to quantify muscle synchronization patterns
