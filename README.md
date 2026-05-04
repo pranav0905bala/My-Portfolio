@@ -35,7 +35,7 @@ My work focused on developing robot-assisted experimental platforms, combining r
 
 ---
 
-#### 🦾 3-DOF Robotic Arm  
+#### 🦾 3-DOF Bomb-Defusal Robotic Arm  
 > ⚙️ *SolidWorks, Arduino, Raspberry Pi*  
 - Designed a mechanical system and built an embedded control architecture  
 - Integrated servo motor control for multi-axis motion  
