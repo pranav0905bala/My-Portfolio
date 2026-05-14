@@ -2,8 +2,7 @@
 <p align="center">
   <b>Robotics | Mechatronics | Hardware Development | Research & Development</b><br>
   Cincinnati, OH • pranav0905bala@gmail.com • 
-  <a href="YOUR_LINKEDIN">LinkedIn</a> • 
-  <a href="YOUR_GITHUB">GitHub</a>
+  
 </p>
 
 ---
